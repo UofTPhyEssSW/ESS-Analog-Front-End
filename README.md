@@ -1,6 +1,6 @@
 # Analog Front End Arduino Library
 
-<p><b><i>Current version is compatible with the Analog Front End Rev C board</i></b></p>
+<p><b><i>Current version is compatible with the Analog Front End Rev D board</i></b></p>
 
 ![board](https://github.com/UofTPhyEssSW/Student-Workshop-Course-L1/blob/main/images/analog_front_end_side.png?raw=true)
 
